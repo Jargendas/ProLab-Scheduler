@@ -8,11 +8,11 @@ on ATTINY-devices with small modifications.
 
 ##Features
 
--Very compact design (in mode 2 below 1kB)
--Time-resolution of about one millisecond
--Interrupt-triggered function execution
--Argument passing through void-pointer
--Function execution happens outside of the interrupt due to stack frame 
+*Very compact design (in mode 2 below 1kB)
+*Time-resolution of about one millisecond
+*Interrupt-triggered function execution
+*Argument passing through void-pointer
+*Function execution happens outside of the interrupt due to stack frame 
 manipulation
 
 ##Usage
