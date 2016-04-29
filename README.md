@@ -62,3 +62,9 @@ execution with a while-loop until the given amount of time passed. Be
 aware the time until execution can be shorter if it is close to 1ms. 
 This is due to the fact that the tasks are triggered by 
 timer-interrupts.
+
+#Copyright and Licensing
+
+The Project is under the GNU General Public License.
+Copyright (C) 2016 Jonathan Schostak, Sven Rotter, Andreas Liu, Patrick Artz, Karsten Eckhoff, Talha Kösker, Geronimo Bergk, Stephan Bauroth
+For any questions or problems please contact Jonathan Schostak <jonathan@schostak.org>.
